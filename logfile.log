@@ -1,0 +1,14 @@
+2021-06-21 21:56:34,787 INFO  [Log] Launch Chrome browser 
+2021-06-21 21:56:38,828 INFO  [Log] ChromeDriver was started successfully. 
+2021-06-21 21:56:38,847 INFO  [Log] Navigate to website 
+2021-06-21 21:56:46,020 INFO  [Log] Enter username 
+2021-06-21 21:56:46,195 INFO  [Log] Enter password 
+2021-06-21 21:56:46,276 INFO  [Log] Click Login button 
+2021-06-21 21:56:47,565 INFO  [Log] Close Chrome browser 
+2021-06-21 21:57:27,959 INFO  [Log] Launch Chrome browser 
+2021-06-21 21:57:31,743 INFO  [Log] ChromeDriver was started successfully. 
+2021-06-21 21:57:31,755 INFO  [Log] Navigate to website 
+2021-06-21 21:57:39,275 INFO  [Log] Enter username 
+2021-06-21 21:57:39,472 INFO  [Log] Enter password 
+2021-06-21 21:57:39,555 INFO  [Log] Click Login button 
+2021-06-21 21:57:40,816 INFO  [Log] Close Chrome browser 
